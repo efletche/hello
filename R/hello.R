@@ -1,10 +1,12 @@
 
-#' @name hello
-#' @title hello: A minimal test R-Package 
+#' hello: A minimal test R-Package 
 #' 
-#' @description The 'hello' package is desigined as an minimal example to test
-#' out if issues with the R-package creation tools.
+#' 'hello' is an minimal package example containing a simple "Hello World"
+#' script. This was designed to test out issues had with R-package developer 
+#' tools, such as Rstudio's build commands.
+#' 
+#' @aliases hello-package
 #' 
 #' @docType package
-#' 
+#' @name hello
 NULL
